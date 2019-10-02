@@ -8,7 +8,7 @@ object HelloWorld {
     println("muliplier(1) value = " + multiplier(1))
     println("muliplier(2) value = " + multiplier(2))
 
-    // StrinbBuilder
+    // StringBuilder
     val buf = new StringBuilder
     buf += 'a'
     buf ++= "bcdef"
